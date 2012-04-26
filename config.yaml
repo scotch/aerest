@@ -1,0 +1,11 @@
+# this file is put here for testing purposes.
+
+installed_apps:
+  - aecore
+  - aeauth
+  - aerest
+
+aecore:
+  secret_key: UPDATED
+  user_model: new.path.User
+
